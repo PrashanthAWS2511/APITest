@@ -1,0 +1,23 @@
+version: 0.2
+phases: 
+  install: 
+    runtime-versions: 
+      dotnet: 3.1 
+  pre_build: 
+    commands: 
+      - echo Restore started on `date`
+      - echo $CODEBUILD_BUILD_ID > build-id.txt      
+      - dotnet restore -r rhel.7-x64 
+  build: 
+    commands: 
+      - echo Build started on `date`. 
+      - dotnet publish -c Release -r rhel.7-x64 --self-contained false /p:MicrosoftNETPlatformLibrary=Microsoft.NETCore.App -o ./build_output/OrderPublish OrderAPI/OrderAPI.csproj
+cache:
+    paths:
+        - '~/.nuget/packages'
+artifacts: 
+  files: 
+    - build_output/**/* 
+    - codedeploy-scripts/**/* 
+    - appspec.yml 
+    - build-id.txt

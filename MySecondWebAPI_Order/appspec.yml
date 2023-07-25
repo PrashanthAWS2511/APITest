@@ -1,0 +1,20 @@
+version: 0.0
+os: linux
+files:
+  - source: /build_output/OrderPublish/
+    destination:  /app/order/
+permissions:
+  - object: /app/order/
+    pattern: "**"
+    owner: root
+    group: root
+    mode: 774
+hooks:
+  BeforeInstall:
+    - location: codedeploy-scripts/stop-OrderAPI.sh
+      timeout: 300
+      runas: root
+  AfterInstall:
+    - location: codedeploy-scripts/start-OrderAPI.sh
+      timeout: 300
+      runas: root

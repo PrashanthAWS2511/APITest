@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Published\OrderAPI</_PublishTargetUrl>
+    <History>True|2022-01-17T06:02:40.4282721Z;False|2022-01-17T11:32:27.4042756+05:30;True|2022-01-17T11:16:09.3906011+05:30;</History>
+  </PropertyGroup>
+</Project>

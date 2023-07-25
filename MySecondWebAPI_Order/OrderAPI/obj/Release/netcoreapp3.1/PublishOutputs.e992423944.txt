@@ -1,0 +1,10 @@
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\OrderAPI.exe
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\OrderAPI.dll
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\OrderAPI.deps.json
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\OrderAPI.runtimeconfig.json
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\OrderAPI.pdb
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Npgsql.dll
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll

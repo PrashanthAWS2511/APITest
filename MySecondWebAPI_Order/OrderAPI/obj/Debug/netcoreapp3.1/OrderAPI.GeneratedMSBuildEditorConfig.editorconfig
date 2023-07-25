@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OrderAPI
+build_property.ProjectDir = C:\CodeRepo\MySecondWebAPI_Order\OrderAPI\

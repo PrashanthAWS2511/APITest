@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHJot6UmiKU1rngOu1fxzqEFDotTAgx2t3rdWZPHm45tqIXZ2JpzylcdWhbQoZdyptKwXHXCWwvquNQydSXn5A==",
+  "success": true,
+  "projectFilePath": "C:\\CodeRepo\\MySecondWebAPI_Order\\OrderAPI\\OrderAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\6.0.2\\npgsql.6.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
